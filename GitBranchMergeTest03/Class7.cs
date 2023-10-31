@@ -25,9 +25,18 @@ namespace GitBranchMergeTest03
 
         }
 
+        // br-1 | modif-1     
         public void Method3()
+        {
+
+        }
+
+        // br-1 | modif-1     
+        public void Method4()
         {
 
         }
     }
 }
+
+
