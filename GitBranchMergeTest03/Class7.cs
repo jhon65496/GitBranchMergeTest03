@@ -20,7 +20,7 @@ namespace GitBranchMergeTest03
         }
 
 
-        // br-2 | modif-2     
+        
         public void Method2()
         {
 
@@ -32,7 +32,7 @@ namespace GitBranchMergeTest03
 
         }
 
-        // br-1 | modif-2     
+        // br-2 | modif-2     
         public void Method4()
         {
 
