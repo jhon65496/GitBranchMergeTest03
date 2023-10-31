@@ -8,7 +8,7 @@ namespace GitBranchMergeTest03
 {
     internal class Class2
     {
-        // br-1 | modif-1
+        // br-1 | modif-2
         public Class2()
         {
                 

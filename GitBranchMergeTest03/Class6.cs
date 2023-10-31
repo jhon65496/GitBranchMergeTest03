@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitBranchMergeTest03
 {
-    internal class Class5
+    internal class Class6
     {   
-        public Class5()
+        public Class6()
         {
                     
         }
